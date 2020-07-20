@@ -2,8 +2,8 @@ pandoc: 2.7.3
 pkgdown: 1.5.1
 pkgdown_sha: ~
 articles: []
-last_built: 2020-07-16T23:54Z
+last_built: 2020-07-20T15:03Z
 urls:
-  reference: https://seandavi.github.io/sars2pack/reference
-  article: https://seandavi.github.io/sars2pack/articles
+  reference: https://ajabadi.github.io/BIRSBIO2020.Benchmarking.CVmofa/reference
+  article: https://ajabadi.github.io/BIRSBIO2020.Benchmarking.CVmofa/articles
 
