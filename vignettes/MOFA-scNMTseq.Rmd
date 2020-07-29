@@ -1,6 +1,6 @@
 ---
 title: "MOFA Cross-Validation Benchmarking"
-author: Al JalalAbadi^[Melbourne Integrative Genomics, The University of Melbourne (al.jal.abadi@gmail.com)]
+author: Mike Love, Wancen Mu
 date: "`r format(Sys.Date(), '%d %b %Y')`"
 params:
   which_py: '/usr/bin/python'

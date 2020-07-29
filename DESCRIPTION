@@ -1,11 +1,10 @@
 Package: BIRSBIO2020.Benchmarking.CVmofa
 Title: MOFA Cross-Validation Benchmarking
 Version: 0.1.1
-Authors@R: 
-    person(given = "Al",
-           family = "JalalAbadi",
-           role = c("aut", "cre"),
-           email = "al.jal.abadi@gmail.com")
+Authors@R: c(person("Mike", "Love", role=c("aut", "ctb")), 
+            person("Wancen", "Mu", role=c("aut", "ctb")),
+            person("Al", "JalalAbadi", role = c("cre"), 
+            email = "al.jal.abadi@gmail.com"))
 Description: MOFA Cross-Validation Benchmarking.
 License: MIT
 Encoding: UTF-8
